@@ -2,8 +2,9 @@
 Information coming soon about controls
 
 ## Command Based Programming
-"Command-Based Programming" FIRST doc
-FRC 0 to Autonomous: #5 Command-Based Robot
+[Command-Based Programming](https://docs.wpilib.org/en/stable/docs/software/commandbased/index.html) FIRST documenation
+[FRC 0 to Autonomous: #5 Command-Based Robot](https://youtu.be/VoxeXqy1bdQ)
+
 ## Trajectories
 "Trajectory Generation and Following with WPILib" FIRST doc
 "Introduction to PathWeaver" FIRST doc
