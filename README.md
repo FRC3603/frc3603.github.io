@@ -1,1 +1,3 @@
-# frc3603.github.io
+Welcome to the Cyber Coyotes handbook and help files
+
+[Controls] ()
