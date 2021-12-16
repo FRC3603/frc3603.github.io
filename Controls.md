@@ -1,4 +1,4 @@
-## Controls
+# Controls
 Information coming soon about controls
 
 ## Command Based Programming
