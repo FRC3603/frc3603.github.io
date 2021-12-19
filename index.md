@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome
+[Controls](https://github.com/FRC3603/frc3603.github.io/blob/main/Controls.md)
+
+[Handbook]()
+
+Some [other resources](https://github.com/FRC3603/frc3603.github.io/blob/main/OtherResources.md) compiled by our team.
+
+
+## GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FRC3603/frc3603.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
